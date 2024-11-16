@@ -1,5 +1,5 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rabotiahov)  
+## 🌐 Socials: 
+[LinkedIn](https://www.linkedin.com/in/dmytrorabotiahov/)
 [LeetCode](https://leetcode.com/DmytroRabotiahov/)  
 [CodeWars](https://www.codewars.com/users/Remon_derier)  
 [CodeForces](https://codeforces.com/profile/RabotiahovDmytro)  
